@@ -23,6 +23,8 @@ My goal is to strengthen my technical and research skills through hands-on exerc
 
 ### Week 2 – Anomaly Detection & XAI
 
+- **Day 02:** PyTorch Tensors, Autograd & Training Loop — `02_pytorch_loop.ipynb`
+
 *Not started yet.*
 
 ### Week 3 – Knowledge Graphs & LLMs
